@@ -73,3 +73,41 @@
     margin-block: 1rem;
   }
 }
+/* showcase section */
+
+.showcaseContainer {
+  font-family: "Poppins", sans-serif;
+  background-color: #444444;
+  color: white;
+}
+.showcaseHeader {
+  font-size: 2rem;
+  font-weight: 900;
+}
+.ShowcaseInfo {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.showcaseImage {
+  height: 31rem;
+  width: 17rem;
+}
+.mainList {
+  padding-inline: 1rem;
+}
+.singleListItem {
+  background-color: purple;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.singleListItemSymbol {
+  width: 2.5rem;
+  height: 2.5rem;
+  background-color: yellow;
+  border-radius: 50%;
+}
+.sinleListItemList {
+  margin-left: 2rem;
+}
