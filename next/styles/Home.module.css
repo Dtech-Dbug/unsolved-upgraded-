@@ -1,3 +1,22 @@
 .nav {
-  background-color: crimson;
+  background-color: #444;
+  height: 3rem;
+  font-size: 1rem;
+  line-height: 1.45;
+  padding-inline: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav ul {
+  list-style: none;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav ul li {
+  margin-inline: 1rem;
+  color: #f6f6f6;
 }
